@@ -1,12 +1,11 @@
 <!-- ============================================================
-  CHETAN AMBIGER — GITHUB PROFILE README
-  Notes:
-  - First banner image replaced with animated header + typing SVG
-  - Snake, Activity Graph, Profile Summary Cards, Streak, 
-    Repos-per-language, Most-commit-language & Trophies 
-    are UNCHANGED from your original file
-  - New sections added: expanded tech stack, featured projects,
-    dev quote, support section, footer wave
+CHETAN AMBIGER — GITHUB PROFILE README
+Notes:
+- First banner image replaced with animated header + typing SVG
+- Snake, Activity Graph, Profile Summary Cards, Streak, Repos-per-language,
+  Most-commit-language & Trophies are UNCHANGED from your original file
+- New sections added: expanded tech stack, featured projects,
+  dev quote, support section, footer wave
 ============================================================= -->
 
 <div align="center">
@@ -16,7 +15,7 @@
 
 <!-- ================= TYPING SVG (NEW) ================= -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI.
+I'm a **Future Software Engineer & AI Enthusiast**, passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI.
 
 - 🔭 I'm currently working on **Google Developer Experts**
 - 🌱 I'm currently diving deeper into **Advanced Generative AI and LLMs**
@@ -51,7 +50,8 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 -->
 
-<!--### 🐍 Python & Data Science
+<!--
+### 🐍 Python & Data Science
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -91,71 +91,73 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 ---
 
 ## 📈 GitHub Analytics
+
 <!-- =====================================================
-  ⚠️ UNCHANGED SECTION — as requested, snake, activity graph,
-  profile summary cards, streak, repos-per-language,
-  most-commit-language and trophies are kept exactly as-is.
+⚠️ UNCHANGED SECTION — as requested, snake, activity graph,
+profile summary cards, streak, repos-per-language,
+most-commit-language and trophies are kept exactly as-is.
 ====================================================== -->
 
 <!-- CONTRIBUTION SNAKE GAME (Updates every day via Action!) -->
 <div align="center">
-  <h3>🐍 My Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan-AMBI-netizen/chetanambi-collab/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan-AMBI-netizen/chetanambi-collab/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Chetan-AMBI-netizen/chetanambi-collab/output/github-snake.svg" width="100%">
-  </picture>
+<h3>🐍 My Contribution Snake</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChetanAmbi-coder/ChetanAmbi-coder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChetanAmbi-coder/ChetanAmbi-coder/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ChetanAmbi-coder/ChetanAmbi-coder/output/github-snake.svg" width="100%">
+</picture>
 </div>
+
 <br/>
 
 <!-- STABLE CONTRIBUTION GRAPH -->
 <div align="center">
-  <h3>🔥 My Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-AMBI-netizen&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF&v=1" width="100%" alt="Contribution Graph" />
+<h3>🔥 My Contribution Activity</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAmbi-coder&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF&v=1" width="100%" alt="Contribution Graph" />
 </div>
+
 <br/>
 
 <!-- STABLE PROFILE DETAILS AND STREAK -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="GitHub Profile Details" />
-  <img src="https://streak-stats.demolab.com/?user=Chetan-AMBI-netizen&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="GitHub Profile Details" />
+<img src="https://streak-stats.demolab.com/?user=ChetanAmbi-coder&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
 </div>
+
 <br/>
 
 <!-- STABLE REPOS PER LANGUAGE -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="Languages Profile" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="Most Commits Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="Languages Profile" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="Most Commits Languages" />
 </div>
+
 <br/>
 
 <!-- BEAUTIFUL PROFILE TROPHIES -->
 <div align="center">
-  <h3>🏆 My Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetan-AMBI-netizen&theme=tokyonight&no-bg=true&v=1" alt="Trophies" />
+<h3>🏆 My Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=ChetanAmbi-coder&theme=tokyonight&no-bg=true&v=1" alt="Trophies" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
+
 <!-- NEW SECTION — replace repo names below with your actual repos -->
-
 <div align="center">
-
-<a href="https://github.com/Chetan-AMBI-netizen/careerforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-AMBI-netizen&repo=careerforge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/ChetanAmbi-coder/careerforge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=careerforge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
 </a>
-<a href="https://github.com/Chetan-AMBI-netizen/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-AMBI-netizen&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/ChetanAmbi-coder/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
 </a>
-
-<a href="https://github.com/Chetan-AMBI-netizen/ai-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-AMBI-netizen&repo=ai-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/ChetanAmbi-coder/ai-projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=ai-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
 </a>
-<a href="https://github.com/Chetan-AMBI-netizen/open-source-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-AMBI-netizen&repo=open-source-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/ChetanAmbi-coder/open-source-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=open-source-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
 </a>
-
 </div>
 
 <div align="center">
@@ -172,6 +174,7 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 ---
 
 ## 💬 Dev Quote
+
 <!-- NEW SECTION -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -182,20 +185,21 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/chetan-ambiger" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/chetanambi123" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:chetanambiger0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://linkedin.com/in/chetan-ambiger" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/chetanambi123" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:chetanambiger0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 ---
 
 ## ☕ Support My Work
+
 <!-- NEW SECTION -->
 <div align="center">
 <a href="https://www.buymeacoffee.com/chetanambiger">
@@ -206,11 +210,10 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetan-AMBI-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ChetanAmbi-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- ================= FOOTER (NEW) ================= -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:1E3A8A,100:0D1117&height=120&section=footer" width="100%" />
 </div>
- change the username to ChetanAmbi-coder and give me back all the code to paste in readme.md
