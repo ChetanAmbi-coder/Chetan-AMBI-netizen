@@ -10,10 +10,10 @@ Notes:
 
 <div align="center">
 
-<!-- ================= ANIMATED HEADER BANNER (NEW - replaces old image) ================= -->
+<!-- ================= ANIMATED HEADER BANNER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- ================= TYPING SVG (NEW) ================= -->
+<!-- ================= TYPING SVG ================= -->
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
 </a>
@@ -92,12 +92,6 @@ I'm a **Future Software Engineer & AI Enthusiast**, passionate about building in
 
 ## 📈 GitHub Analytics
 
-<!-- =====================================================
-⚠️ UNCHANGED SECTION — as requested, snake, activity graph,
-profile summary cards, streak, repos-per-language,
-most-commit-language and trophies are kept exactly as-is.
-====================================================== -->
-
 <!-- CONTRIBUTION SNAKE GAME (Updates every day via Action!) -->
 <div align="center">
 <h3>🐍 My Contribution Snake</h3>
@@ -110,41 +104,40 @@ most-commit-language and trophies are kept exactly as-is.
 
 <br/>
 
-<!-- STABLE CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION GRAPH — fixed URL -->
 <div align="center">
 <h3>🔥 My Contribution Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAmbi-coder&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF&v=1" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAmbi-coder&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-<!-- STABLE PROFILE DETAILS AND STREAK -->
+<!-- PROFILE DETAILS AND STREAK -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="GitHub Profile Details" />
-<img src="https://streak-stats.demolab.com/?user=ChetanAmbi-coder&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanAmbi-coder&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
+<img src="https://streak-stats.demolab.com/?user=ChetanAmbi-coder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- STABLE REPOS PER LANGUAGE -->
+<!-- REPOS PER LANGUAGE -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="Languages Profile" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanAmbi-coder&theme=tokyonight&v=1" width="48%" alt="Most Commits Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanAmbi-coder&theme=tokyonight" width="48%" alt="Languages Profile" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanAmbi-coder&theme=tokyonight" width="48%" alt="Most Commits Languages" />
 </div>
 
 <br/>
 
-<!-- BEAUTIFUL PROFILE TROPHIES -->
+<!-- TROPHIES — switched to working alternate deployment -->
 <div align="center">
 <h3>🏆 My Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=ChetanAmbi-coder&theme=tokyonight&no-bg=true&v=1" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ChetanAmbi-coder&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<!-- NEW SECTION — replace repo names below with your actual repos -->
 <div align="center">
 <a href="https://github.com/ChetanAmbi-coder/careerforge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=careerforge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
@@ -175,7 +168,6 @@ most-commit-language and trophies are kept exactly as-is.
 
 ## 💬 Dev Quote
 
-<!-- NEW SECTION -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
@@ -200,7 +192,6 @@ most-commit-language and trophies are kept exactly as-is.
 
 ## ☕ Support My Work
 
-<!-- NEW SECTION -->
 <div align="center">
 <a href="https://www.buymeacoffee.com/chetanambiger">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
@@ -213,7 +204,7 @@ most-commit-language and trophies are kept exactly as-is.
 <img src="https://komarev.com/ghpvc/?username=ChetanAmbi-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- ================= FOOTER (NEW) ================= -->
+<!-- ================= FOOTER ================= -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:1E3A8A,100:0D1117&height=120&section=footer" width="100%" />
 </div>
