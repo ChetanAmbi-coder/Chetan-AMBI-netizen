@@ -1,98 +1,162 @@
-<!-- ============================================================
-CHETAN AMBIGER — GITHUB PROFILE README
-Notes:
-- First banner image replaced with animated header + typing SVG
-- Snake, Activity Graph, Profile Summary Cards, Streak, Repos-per-language,
-  Most-commit-language & Trophies are UNCHANGED from your original file
-- New sections added: expanded tech stack, featured projects,
-  dev quote, support section, footer wave
-============================================================= -->
-
+<!-- HEADER BANNER -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- ================= ANIMATED HEADER BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
-
-<!-- ================= TYPING SVG ================= -->
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contributor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
 </a>
-
 </div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-I'm a **Future Software Engineer & AI Enthusiast**, passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI.
-
-- 🔭 I'm currently working on **Google Developer Experts**
-- 🌱 I'm currently diving deeper into **Advanced Generative AI and LLMs**
-- 👯 I'm looking to collaborate on **Open Source ML Projects / Web Applications**
-- 🧩 Interests: **System Design, AI Products, Open Source, Cloud & DevOps**
-- 💬 Ask me about **Python, Machine Learning, Frontend Dev, GenAI**
-- 📫 How to reach me: **chetanambigerchetan@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+# 👨‍💻 About Me
 
-<div align="center">
+## Chetan Ambiger
+**Future Software Engineer**  
+**Full Stack Developer | AI Enthusiast**  
+**Google Developer Experts Contributor**
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+---
 
-<!--
-### 🔧 Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
--->
+I'm passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting edge of Generative AI. I enjoy crafting complete software systems — from frontend design to backend architecture and AI integration.
 
-<!--
-### 🐍 Python & Data Science
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+- 🎓 **Field:** Full Stack Development & Artificial Intelligence
+- 🏆 **Achievements:** Contributor @ Google Developer Experts | Built AI-powered career guidance platform
+- 🎯 **Focus Areas:** Generative AI, LLMs, Frontend Dev, Open Source
+- 📬 **Contact:** chetanambigerchetan@gmail.com
 
-### 🤖 Machine Learning & Generative AI
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Generative%20AI-00C4CC?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<!-- SOCIAL BADGES -->
+<p align="center">
+<a href="https://linkedin.com/in/chetan-ambiger" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/chetanambi123" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:chetanambiger0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.buymeacoffee.com/chetanambiger" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 CareerForge
+AI-powered career guidance platform that helps students and professionals make smarter career decisions using Generative AI, personalized roadmaps, and real-time recommendations.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-00C4CC?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<a href="https://github.com/ChetanAmbi-coder/careerforge">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-00C4CC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+Personal developer portfolio showcasing projects, skills, and achievements with a clean, modern UI built from scratch.
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<a href="https://github.com/ChetanAmbi-coder/portfolio">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Projects
+A curated collection of ML and LLM experiments including image classifiers, NLP pipelines, and GenAI prototypes built with PyTorch and TensorFlow.
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+<a href="https://github.com/ChetanAmbi-coder/ai-projects">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Open Source Contributions
+Active contributor to open source web and ML projects, focused on developer tooling, documentation, and community-driven applications.
+
+<p>
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+<a href="https://github.com/ChetanAmbi-coder/open-source-project">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-059669?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**AI / Machine Learning**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-### 🗄️ Database
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
--->
-
-### 🧰 Tools, IDE & OS
+**Tools & OS**
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-</div>
+</p>
 
 ---
 
 ## 📈 GitHub Analytics
 
-<!-- CONTRIBUTION SNAKE GAME (Updates every day via Action!) -->
+<!-- CONTRIBUTION SNAKE -->
 <div align="center">
 <h3>🐍 My Contribution Snake</h3>
 <picture>
@@ -104,9 +168,9 @@ I'm a **Future Software Engineer & AI Enthusiast**, passionate about building in
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH — fixed URL -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-<h3>🔥 My Contribution Activity</h3>
+<h3>🔥 Contribution Activity</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAmbi-coder&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Contribution Graph" />
 </div>
 
@@ -120,7 +184,7 @@ I'm a **Future Software Engineer & AI Enthusiast**, passionate about building in
 
 <br/>
 
-<!-- REPOS PER LANGUAGE -->
+<!-- REPOS AND COMMIT LANGUAGE -->
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanAmbi-coder&theme=tokyonight" width="48%" alt="Languages Profile" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanAmbi-coder&theme=tokyonight" width="48%" alt="Most Commits Languages" />
@@ -128,40 +192,10 @@ I'm a **Future Software Engineer & AI Enthusiast**, passionate about building in
 
 <br/>
 
-<!-- TROPHIES — switched to working alternate deployment -->
+<!-- TROPHIES -->
 <div align="center">
 <h3>🏆 My Trophies</h3>
 <img src="https://github-trophies.vercel.app/?username=ChetanAmbi-coder&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-<a href="https://github.com/ChetanAmbi-coder/careerforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=careerforge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
-</a>
-<a href="https://github.com/ChetanAmbi-coder/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
-</a>
-<a href="https://github.com/ChetanAmbi-coder/ai-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=ai-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
-</a>
-<a href="https://github.com/ChetanAmbi-coder/open-source-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanAmbi-coder&repo=open-source-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4CC&text_color=C9D1D9" width="48%" />
-</a>
-</div>
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 **CareerForge** | AI-powered career guidance platform | React · Python · GenAI |
-| 💼 **Portfolio Website** | Personal developer portfolio | HTML · CSS · JS |
-| 🤖 **AI Projects** | Collection of ML/LLM experiments | Python · TensorFlow · PyTorch |
-| 🌍 **Open Source Project** | Community-driven dev tool | Open Source Stack |
-
 </div>
 
 ---
@@ -170,44 +204,90 @@ I'm a **Future Software Engineer & AI Enthusiast**, passionate about building in
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
+> *"First, solve the problem. Then, write the code."*  
 > — **John Johnson**
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Exploring
+
+<p align="center">
+
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ Advanced Generative AI
+- ☁️ Cloud-Native Development
+- 🤖 AI Infrastructure & MLOps
+- 🌐 Open Source Web Applications
+- 🚀 System Design & Scalable Architecture
+
+</p>
+
+---
+
+<h2 align="center">⭐ Submit Your Rating & Feedback</h2>
+
+<p align="center">
+Enjoyed my work? Pick a star rating below — your message goes straight to my inbox.
+</p>
 
 <div align="center">
-<a href="https://linkedin.com/in/chetan-ambiger" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/chetanambi123" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:chetanambiger0@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<table>
+<tr>
+<th align="center">Rating</th>
+<th align="center">Click to rate</th>
+</tr>
+<tr>
+<td align="center">⭐⭐⭐⭐⭐</td>
+<td align="center"><a href="mailto:chetanambiger0@gmail.com?subject=Rating%3A%205%20Stars%20-%20Excellent&body=Hi%20Chetan%2C%20I%20rate%20your%20work%205%20stars!%0A%0AFeedback%3A"><img alt="Rate 5 stars" src="https://img.shields.io/badge/Rate-5_Stars_–_Excellent-2DD4BF?style=for-the-badge" /></a></td>
+</tr>
+<tr>
+<td align="center">⭐⭐⭐⭐</td>
+<td align="center"><a href="mailto:chetanambiger0@gmail.com?subject=Rating%3A%204%20Stars%20-%20Very%20Good&body=Hi%20Chetan%2C%20I%20rate%20your%20work%204%20stars!%0A%0AFeedback%3A"><img alt="Rate 4 stars" src="https://img.shields.io/badge/Rate-4_Stars_–_Very_Good-1FAE9A?style=for-the-badge" /></a></td>
+</tr>
+<tr>
+<td align="center">⭐⭐⭐</td>
+<td align="center"><a href="mailto:chetanambiger0@gmail.com?subject=Rating%3A%203%20Stars%20-%20Good&body=Hi%20Chetan%2C%20I%20rate%20your%20work%203%20stars!%0A%0AFeedback%3A"><img alt="Rate 3 stars" src="https://img.shields.io/badge/Rate-3_Stars_–_Good-FFB84D?style=for-the-badge" /></a></td>
+</tr>
+<tr>
+<td align="center">⭐⭐</td>
+<td align="center"><a href="mailto:chetanambiger0@gmail.com?subject=Rating%3A%202%20Stars%20-%20Fair&body=Hi%20Chetan%2C%20I%20rate%20your%20work%202%20stars!%0A%0AFeedback%3A"><img alt="Rate 2 stars" src="https://img.shields.io/badge/Rate-2_Stars_–_Fair-FF9F4D?style=for-the-badge" /></a></td>
+</tr>
+<tr>
+<td align="center">⭐</td>
+<td align="center"><a href="mailto:chetanambiger0@gmail.com?subject=Rating%3A%201%20Star%20-%20Poor&body=Hi%20Chetan%2C%20I%20rate%20your%20work%201%20star.%0A%0AFeedback%3A"><img alt="Rate 1 star" src="https://img.shields.io/badge/Rate-1_Star_–_Poor-FF7A90?style=for-the-badge" /></a></td>
+</tr>
+</table>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-chetanambiger0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanambiger0@gmail.com)
+
 </div>
 
 ---
 
-## ☕ Support My Work
+## What I'm Looking For
+
+I'm actively looking for **Software Engineering**, **Full Stack Development**, and **AI/ML Engineering** internship or entry-level opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+
+**If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.**
+
+---
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/chetanambiger">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-</a>
+
+### Thanks for visiting my profile!
+**If you like my work, consider giving a ⭐ to the repositories you find useful.**
+
+<img src="https://komarev.com/ghpvc/?username=ChetanAmbi-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ChetanAmbi-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<!-- ================= FOOTER ================= -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:1E3A8A,100:0D1117&height=120&section=footer" width="100%" />
-</div>
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:1E3A8A,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+</p>
